@@ -20,6 +20,7 @@ Não sou um grande especialista, mas já usei as ferramentas abaixo em alguns cu
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3D)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=ff8402)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-000?style=for-the-badge&logo=c&logoColor=white)
 
 ### Bibliotecas e Frameworks
 ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
